@@ -1,5 +1,5 @@
 # BSGUI
-A GUI for python's BS4 api.
+A GUI for python's BS4 api. It parses HTML.
 
 # USE
 
